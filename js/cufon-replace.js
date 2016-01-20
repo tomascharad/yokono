@@ -1,0 +1,2 @@
+Cufon.replace('#menu li a, ul.sf-menu, ul#cat, ul#contact_info, label', { fontFamily: 'Yanone Kaffeesatz Regular', hover:true });
+Cufon.replace('h1,h2,h3,h4,h5', { fontFamily: 'Yanone Kaffeesatz Regular', hover:true });
