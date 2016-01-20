@@ -59,10 +59,11 @@
   <div class="shadow"></div>
 <div class="two_third_col">
 <!-- start form -->
-	            <form method="post"  id="myform" action="contact.php" >
+	            <form method="post"  id="myform" action="http://formspree.io/info@yokono.cl" >
                     <fieldset class="col_f_1">
-                    <label>NOMBRE</label><input name="Nombre" type="text" class="required" id="Nombre" >
-                    <label>EMAIL</label><input name="Email" type="text" class="required email" >
+                    <label>NOMBRE</label><input name="name" type="text" class="required" id="Nombre" >
+                    <label>EMAIL</label><input type="email" name="_replyto" type="text" class="required email" >
+                    <input type="hidden" name="_next" value="/" />
                     </fieldset>
           <fieldset class="col_f_2">
                     <label>APELLIDO</label><input name="Apellido" type="text" class="required" id="Apellido" >
@@ -72,7 +73,7 @@
                      <fieldset >
                     <label>MENSAJE</label><textarea name="Mensaje" rows="4" class="required" id="Mensaje" ></textarea>
                     </fieldset>                                   
-                    <button type="submit">ENVIAR</button>
+                    <button type="submit" value="Send">ENVIAR</button>
     </form>
                						
 		<!-- END SEND MAIL SCRIPT -->   
