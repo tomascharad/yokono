@@ -76,650 +76,550 @@
   <!--<img class="star-divider" src="images/subscribe_divider.png" />-->
   <div id="container">
     <ul id="stage">
-     <!--PICOTEOS-->
-      <li data-tags="Picoteos"><img src="img/menu_01/ensalada.png" width="200" height="20">
+    <!--COMBO 1-->
+    <li data-tags="Combos"><img src="img/menu_01/combos.png" width="200" height="20">
         <div class="project-info"> 
-          <h8>EP1 Sopa miso</h8>
-          <br>
-          <h9>$1.500</h9>
-          <br>
-          <h10>Suave sopa de soya y cebollín</h10>
-        </div>
+   		  <h8>COMBO 1</h8><br>
+   		  <h9>$ 3.900</h9><br>
+	    <h10>Roll nº2 (Kanikama, palta, queso crema, envuelto en sésamo) + 1 bebida</h10> </div>
       </li>
-	    
-	       <!--PICOTEOS-->
-      <li data-tags="Picoteos"><img src="img/menu_01/ensalada.png" width="200" height="20">
-        <div class="project-info"> 
-          <h8>EP2 Gyosas (Al vapor o fritas)</h8>
-          <br>
-          <h9>$1.500</h9>
-          <br>
-          <h10>3 unidades de pollo, camarón o cerdo</h10>
-        </div>
-      </li>
-	    
-	     <!--PICOTEOS-->
-      <li data-tags="Picoteos"><img src="img/menu_01/ensalada.png" width="200" height="20">
-        <div class="project-info"> 
-          <h8>EP3 Duo Marino</h8>
-          <br>
-          <h9>$3.150</h9>
-          <br>
-          <h10>Tartaro de salmón con salsa acevichada y ciboulette,acompañado de 2 Brochetas de camarón Furai y salsa Teriyaki</h10>
-        </div>
-      </li>
-	    
-	     <!--PICOTEOS-->
-      <li data-tags="Picoteos"><img src="img/menu_01/ensalada.png" width="200" height="20">
-        <div class="project-info"> 
-          <h8>EP4 Brochetas de Camarón Furay</h8>
-          <br>
-          <h9>$2.400 / $3.800</h9>
-          <br>
-          <h10>3 o 5 unidades, con salsa Teriyaki</h10>
-        </div>
-      </li>
-	    
-	       <!--PICOTEOS-->
-      <li data-tags="Picoteos"><img src="img/menu_01/ensalada.png" width="200" height="20">
-        <div class="project-info"> 
-          <h8>EP5 Sopa Yokono Pollo</h8>
-          <br>
-          <h9>$3.500</h9>
-          <br>
-          <h10>Suave sopa de soya, noodles, pollo y cebollín</h10>
-        </div>
-      </li>
-	    
-	         <!--PICOTEOS-->
-      <li data-tags="Picoteos"><img src="img/menu_01/ensalada.png" width="200" height="20">
-        <div class="project-info"> 
-          <h8>EP6 Sopa Yokono Camarón</h8>
-          <br>
-          <h9>$3.500</h9>
-          <br>
-          <h10>Suave sopa de soya, noodles, camarón y cebollín</h10>
-        </div>
-      </li>
-	    
-	    <!--rolls 1-->
-    <li data-tags="California Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>CR1 Salmón</h8><br>
-   		  <h9>$ 3.400</h9><br>
-	    <h10>Salmón, queso crema, envuelto en sésamo</h10> </div>
-                 </li>
                  
-                 <!--rolls 2-->
-     <li data-tags="California Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+                 <!--COMBO 2-->
+                 <li data-tags="Combos"><img src="img/menu_01/combos.png" width="200" height="20">
         <div class="project-info"> 
-   		  <h8>CR2 Camarón</h8><br>
-   		  <h9>$ 3.500</h9><br>
-	    <h10>Camarón, palta, queso crema, enuelto en sésamo</h10> </div>
+   		  <h8>COMBO 2</h8><br>
+   		  <h9>$ 4.200</h9><br>
+	    <h10>1 Temaki Kanikama Palta + 1 Temaki Salmón Palta + 1 bebida</h10> </div>
                  </li>
-                              
-                 <!--rolls 3-->
-     <li data-tags="California Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+                
+                 
+                 <!--COMBO 3-->
+    <li data-tags="Combos"><img src="img/menu_01/combos.png" width="200" height="20">
         <div class="project-info"> 
-   		  <h8>CR3 Pollo</h8><br>
+   		  <h8>COMBO 3</h8><br>
+   		  <h9>$ 5.500</h9><br>
+	    <h10>1 Roll a elección + 1 Temaki a elección + 1 bebida</h10> </div>
+      </li>
+                 
+                 <!--COMBO 4-->
+    <li data-tags="Combos"><img src="img/menu_01/combos.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>COMBO 4</h8><br>
+   		  <h9>$ 3.900</h9><br>
+	    <h10>1 Gohan Nº1 Salmón, kanikama, palta + 1 bebida</h10> </div>
+      </li>
+                 
+                  <!--COMBO 5-->
+    <li data-tags="Combos"><img src="img/menu_01/combos.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>COMBO 5</h8><br>
+   		  <h9>$ 5.500</h9><br>
+	    <h10>Roll a elección + Sopa miso o Thai o Gyosas + 1 bebida</h10> </div>
+      </li>
+                 
+                 <!--COMBO 6-->
+    <li data-tags="Combos"><img src="img/menu_01/combos.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>COMBO 6</h8><br>
    		  <h9>$ 3.300</h9><br>
-	    <h10>Pollo, queso crema, envuelto en sésamo</h10> </div>
-                 </li>
-       
-                  <!--rolls 4-->
-     <li data-tags="California Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+	    <h10>1 Gohan Nº5, kanikama, palta + 1 bebida</h10> </div>
+      </li>
+                 
+                   <!--PROMOS-->
+    <li data-tags="Promociones"><img src="img/menu_01/combos.png" width="200" height="20">
         <div class="project-info"> 
-   		  <h8>CR4 Salmon Camarón</h8><br>
-   		  <h9>$ 3.700</h9><br>
-	    <h10>Salmón, camarón, queso crema, envuelto en sesamo</h10> </div>
-                 </li>
-
-                  <!--rolls 5-->
-     <li data-tags="California Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>CR5 Veggie Pepino</h8><br>
-   		  <h9>$ 3.500</h9><br>
-	    <h10>Pepino, palta, queso crema, envuelto en ciboulette</h10> </div>
-                 </li>
-
-                 <!--rolls 6-->
-     <li data-tags="California Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>CR6 Vegetariano Champiñón</h8><br>
-   		  <h9>$ 3.700</h9><br>
-	    <h10>Champiñón, verduras salteadas, queso crema envuelto en ciboulette</h10> </div>
+   		  <h8>PROMOCIONES</h8><br>
+   		  <h9>Con descuentos por forma de pago<h9><br>
+	    <h10>5% Dcto. Sodexo y Edenred / 15% Dcto. Efectivo y Transbank</h10> </div>
                  </li>
                  
-                 <!--rolls 1-->
-     <li data-tags="Special Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+                 <!--PROMOS-->
+    <li data-tags="Promociones"><img src="img/menu_01/combos.png" width="200" height="20">
         <div class="project-info"> 
-        <h8>SR1 Salmón Palta</h8><br>
-        <h9>$ 3.800</h9><br>
-      <h10>Salmón, queso crema, envuelto en palta</h10> </div>
+   		  <h8>PROMOCIÓN 1 PERSONA</h8><br>
+   		  <h9>$ 6.650 (5%) / 5.990 (15%)<h9><br>
+	    <h10>1 Roll a elección + 1 bebida + 1/2 roll (Hot roll: 1, 2 o 3 o Roll salsa: 1, 2 o 3)</h10> </div>
                  </li>
-	    
-	      <!--rolls 2-->
-     <li data-tags="Special Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+                 
+                 <!--PROMOS-->
+    <li data-tags="Promociones"><img src="img/menu_01/combos.png" width="200" height="20">
         <div class="project-info"> 
-        <h8>SR2 Camarón Palta</h8><br>
-        <h9>$ 3.800</h9><br>
-      <h10>Camarón, palta, queso crema, envuelto en palta</h10> </div>
-                 </li>
-	    
-	      <!--rolls 3-->
-     <li data-tags="Special Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>SR3 Pollo Palta</h8><br>
-        <h9>$ 3.700</h9><br>
-      <h10>Pollo, queso crema, envuelto en palta</h10> </div>
-                 </li>
-	    
-	      <!--rolls 4-->
-     <li data-tags="Special Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>SR4 Salmón Queso Crema</h8><br>
-        <h9>$ 3.900</h9><br>
-      <h10>Salmón, palta, envuelto en queso crema cubierto con ciboulette</h10> </div>
-                 </li>
-	    
-	     <!--rolls 5-->
-     <li data-tags="Special Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>SR5 Camarón Queso Crema Merken</h8><br>
-        <h9>$ 3.900</h9><br>
-      <h10>Camarón, palta, envuelto en queso crema cubierto con merkén</h10> </div>
-                 </li>
-	    
-	        <!--rolls 6-->
-     <li data-tags="Special Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>SR6 Salmón Camarón Palta</h8><br>
-        <h9>$ 4.200</h9><br>
-      <h10>Salmón, camarón, queso crema, envuelto en palta</h10> </div>
-                 </li>
-	    
-	        <!--rolls 7-->
-     <li data-tags="Special Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>SR7 Pollo teriyaki</h8><br>
-        <h9>$ 4.200</h9><br>
-      <h10>Pollo teriyaki, queso crema, envuelto en palta, cubierto con salsa teriyaki y almendras tostadas</h10> </div>
-                 </li>
-	    
-	    <!--rolls 8-->
-     <li data-tags="Special Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>SR8 Camarón cubierto en Salmón</h8><br>
-        <h9>$ 4.100</h9><br>
-      <h10>Camarón, palta, queso crema, cubierto con cubos de salmon y ciboulette</h10> </div>
-                 </li>
-	    
-	     <!--rolls 9-->
-     <li data-tags="Special Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>SR9 Quinoa Veggie</h8><br>
-        <h9>$ 4.300</h9><br>
-      <h10>Base de Quinoa, pimenton rojo, queso crema, champiñón, palta, envuelto en nori</h10> </div>
-                 </li>
-	    
-	     <!--rolls 10-->
-     <li data-tags="Special Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>SR10 Veggie Esparrago cubierto en lechuga</h8><br>
-        <h9>$ 4.300</h9><br>
-      <h10>Espárrago, pimenton, palta, queso crema, envuelto en lechuga, cubierto con almendras tostadas</h10> </div>
-                 </li>
-	    
-	         <!--rolls 1-->
-     <li data-tags="Nikkei Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>NR1 Camarón Acevichado</h8><br>
-        <h9>$ 4.100</h9><br>
-      <h10>Camarón, queso crema, palta, con salsa acevichada, un toque de ciboulette, cubierto con crispys de panko</h10> </div>
-                 </li>
-	    
-	      <!--rolls 2-->
-     <li data-tags="Nikkei Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>NR2 Salmón Ciboulette</h8><br>
-        <h9>$ 4.100</h9><br>
-      <h10>Salmon, queso crema, con salsa al ciboulette, cubierto con crispys de panko</h10> </div>
-                 </li>
-	    
-	      <!--rolls 3-->
-     <li data-tags="Nikkei Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>NR3 Pollo Huancaina</h8><br>
-        <h9>$ 4.100</h9><br>
-      <h10>Pollo, queso crema, con salsa huancaina, cubierto con papas hilo y cebollín</h10> </div>
-                 </li>
-	    
-	    <!--rolls 4-->
-     <li data-tags="Nikkei Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>NR4 Salmón Palta Acevichado</h8><br>
-        <h9>$ 4.300</h9><br>
-      <h10>Salmón, queso crema, envuelto en palta, con salsa acevichada un toque de ciboulette, cubierto con crispys de panko</h10> </div>
-                 </li>
-	    
-	    <!--rolls 5-->
-     <li data-tags="Nikkei Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>NR5 Camarón Primavera Coco</h8><br>
-        <h9>$ 4.200</h9><br>
-      <h10>Camarón, palta, queso crema, cubierto con salsa primavera y chips de coco</h10> </div>
-                 </li>
-	    
-	    <!--rolls 6-->
-     <li data-tags="Nikkei Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>NR6 Pollo Primavera Crispy</h8><br>
-        <h9>$ 4.200</h9><br>
-      <h10>Pollo, queso crema, con salsa primavera y papas hilo</h10> </div>
-                 </li>
-	    
-	        <!--rolls 7-->
-     <li data-tags="Nikkei Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>NR7 Camarón Cubierto Salmon Acevichado</h8><br>
-        <h9>$ 4.400</h9><br>
-      <h10>Camaron, palta, queso crema, Cubierto con cubos de salmón con salsa acevichada y ciboulette, y crispy de panko</h10> </div>
-                 </li>
-	    
-	      <!--rolls 8-->
-     <li data-tags="Nikkei Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>NR8 Camarón Acevichado Crispy</h8><br>
-        <h9>$ 4.300</h9><br>
-      <h10>Camarón, queso crema, palta, cubierto con salsa acevichada y papa hilo</h10> </div>
-                 </li>
-	    
-	       <!--rolls 1-->
-     <li data-tags="Hot Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>HR1 Salmón</h8><br>
-        <h9>$ 3.950</h9><br>
-      <h10>Salmón, queso crema, envuelto en tempura o panko</h10> </div>
-                 </li>
-	    
-	     <!--rolls 2-->
-     <li data-tags="Hot Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>HR2 Camarón</h8><br>
-        <h9>$ 3.950</h9><br>
-      <h10>Camarón, palta, queso crema, envuelto en tempura o panko</h10> </div>
-                 </li>
-	    
-	         <!--rolls 3-->
-     <li data-tags="Hot Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>HR3 Pollo</h8><br>
-        <h9>$ 3.950</h9><br>
-      <h10>Pollo, queso crema, envuelto en tempura o panko</h10> </div>
-                 </li>
-	    
-	       <!--rolls 4-->
-     <li data-tags="Hot Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>HR4 Pollo Jalapeño</h8><br>
-        <h9>$ 4.100</h9><br>
-      <h10>Pollo, queso crema, envuelto en tempura o panko, cubierto con salsa Spicy y Jalapeño</h10> </div>
-                 </li>
-	    
-	      <!--rolls 5-->
-     <li data-tags="Hot Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>HR5 Vegetariano</h8><br>
-        <h9>$ 3.950</h9><br>
-      <h10>Tomate cherry, champiñón, queso crema, envuelto en tempura o panko</h10> </div>
-                 </li>
-	    
-	      <!--rolls 6-->
-     <li data-tags="Hot Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>HR6 Pollo Primavera Coco</h8><br>
-        <h9>$ 4.100</h9><br>
-      <h10>Pollo, queso crema, envuelto en tempura o panko, cubierto con salsa primavera y chips de coco</h10> </div>
-                 </li>
-	    
-	    <!--rolls 7-->
-     <li data-tags="Hot Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>HR7 Futomaki Ebi (Gran Hot Roll)</h8><br>
-        <h9>$ 4.450</h9><br>
-      <h10>Camarón, palta, queso crema, un toque de salsa spicy (picante) envuelto en tempura, cubierto con cebollín y salsa Thai</h10> </div>
-                 </li>
-	    
-	        <!--rolls 8-->
-     <li data-tags="Hot Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
-        <div class="project-info"> 
-        <h8>HR8 Futomaki Tori (Gran Hot Roll)</h8><br>
-        <h9>$ 4.450</h9><br>
-      <h10>Pollo, palta, queso crema, un toque de salsa spicy (picante), envuelto en tempura, cubierto con cebollín y salsa Primavera</h10> </div>
-                 </li>
-	    
-	     <!--GOHAN  1-->
-   <li data-tags="Gohan Tradicional"><img src="img/menu_01/gohan.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>GT1 Salmón Kanikama Palta</h8><br>
-   		  <h9>$ 3.950</h9><br>
-	    <h10>Salmón, kanikama, palta, cebollín</h10> </div>
-                 </li>
-	    
-	    <!--GOHAN  2-->
-   <li data-tags="Gohan Tradicional"><img src="img/menu_01/gohan.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>GT2 Salmón Camarón Palta</h8><br>
-   		  <h9>$ 4.300</h9><br>
-	    <h10>Salmón, camarón, palta, cebollín</h10> </div>
-                 </li>
-	    
-	     <!--GOHAN  3-->
-   <li data-tags="Gohan Tradicional"><img src="img/menu_01/gohan.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>GT3 Camarón Kanikama Palta</h8><br>
-   		  <h9>$ 4.000</h9><br>
-	    <h10>Camarón, kanikama, palta, cebollín</h10> </div>
-                 </li>
-	    
-	      <!--GOHAN  4-->
-   <li data-tags="Gohan Tradicional"><img src="img/menu_01/gohan.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>GT4 Pollo Palta</h8><br>
-   		  <h9>$ 4.000</h9><br>
-	    <h10>Pollo, palta, cebollín</h10> </div>
-                 </li>
-	    
-	     <!--GOHAN  5-->
-   <li data-tags="Gohan Tradicional"><img src="img/menu_01/gohan.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>GT5 Kanikama Palta</h8><br>
-   		  <h9>$ 3.100</h9><br>
-	    <h10>Kanikama, palta, cebollín</h10> </div>
-                 </li>
-	    
-	     <!--GOHAN  6-->
-   <li data-tags="Gohan Tradicional"><img src="img/menu_01/gohan.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>GT6 Vegetariano</h8><br>
-   		  <h9>$ 4.100</h9><br>
-	    <h10>Champiñón, esparragos, pepino, palta, queso crema, cebollín</h10> </div>
-                 </li>
-	    
-	     <!--GOHAN  7-->
-   <li data-tags="Gohan Tradicional"><img src="img/menu_01/gohan.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>GT7 Pollo Furai</h8><br>
-   		  <h9>$ 4.300</h9><br>
-	    <h10>Pollo furai, palta, cebollín</h10> </div>
-                 </li>
-	    
-	     <!--GOHAN  8-->
-   <li data-tags="Gohan Tradicional"><img src="img/menu_01/gohan.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>GT8 Camarón Furai</h8><br>
-   		  <h9>$ 4.300</h9><br>
-	    <h10>Camarón furai, salmón, palta, cebollín</h10> </div>
-                 </li>
-	    
-	       <!--GOHAN  9-->
-   <li data-tags="Gohan Tradicional"><img src="img/menu_01/gohan.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>GT9 Salmón Furai</h8><br>
-   		  <h9>$ 4.300</h9><br>
-	    <h10>Salmón furai, camarón, palta, cebollín</h10> </div>
-                 </li>
-	    
-	      <!--GOHAN  1-->
-   <li data-tags="Gohan Nikkei"><img src="img/menu_01/gohan.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>GN1 Acevichado</h8><br>
-   		  <h9>$ 4.450</h9><br>
-	    <h10>Salmón, camarón, palta, cebollín, salsa acevichada, cubierto con ciboulette y crispys de panko</h10> </div>
-                 </li>
-	    
-	      <!--GOHAN  2-->
-   <li data-tags="Gohan Nikkei"><img src="img/menu_01/gohan.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>GN2 Pollo Furai Huancaina</h8><br>
-   		  <h9>$ 4.450</h9><br>
-	    <h10>Pollo Furai, palta, cebollín, salsa huancaína</h10> </div>
-                 </li>
-	    
-	    <!--GOHAN  3-->
-   <li data-tags="Gohan Nikkei"><img src="img/menu_01/gohan.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>GN3 Ciboulette</h8><br>
-   		  <h9>$ 4.450</h9><br>
-	    <h10>Salmón, camarón, palta, cebollín, salsa al ciboulete, cubierto con crispys de panko</h10> </div>
-                 </li>
-	    
-	    <!--GOHAN  4-->
-   <li data-tags="Gohan Nikkei"><img src="img/menu_01/gohan.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>GN4 Camarón Thai</h8><br>
-   		  <h9>$ 4.300</h9><br>
-	    <h10>Camarón Furai, palta, cebollín, salsa thai cubierto con chips de coco</h10> </div>
-                 </li>
-	    
-	     <!--GOHAN  5-->
-   <li data-tags="Gohan Nikkei"><img src="img/menu_01/gohan.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>GN5 Camaron Furai Salmon Acevichado</h8><br>
-   		  <h9>$ 4.600</h9><br>
-	    <h10>Camarón Furai, salmón, palta, cebollín, cubierto con salsa acevichada</h10> </div>
-                 </li>
-	    
-	    <!--GOHAN  6-->
-   <li data-tags="Gohan Nikkei"><img src="img/menu_01/gohan.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>GN6 Pollo Furai y Jalapeño</h8><br>
-   		  <h9>$ 4.450</h9><br>
-	    <h10>Pollo Furai, palta, cebollín, salsa spicy, jalapeño</h10> </div>
-                 </li>
-	    
-	      <!--GOHAN  1-->
-   <li data-tags="Hot Gohan"><img src="img/menu_01/gohan.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>HG1 Hot Gohan Camarón</h8><br>
-   		  <h9>$ 4.200</h9><br>
-	    <h10>Camarón, verduras salteadas, champiñón, cebollín</h10> </div>
-                 </li>
-	    
-	      <!--GOHAN  2-->
-   <li data-tags="Hot Gohan"><img src="img/menu_01/gohan.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>HG2 Hot Gohan Pollo</h8><br>
-   		  <h9>$ 4.200</h9><br>
-	    <h10>Pollo, verduras salteadas, champiñón, cebollín</h10> </div>
-                 </li>
-	    
-	     <!--GOHAN  3-->
-   <li data-tags="Hot Gohan"><img src="img/menu_01/gohan.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>HG3 Hot Gohan Salmón</h8><br>
-   		  <h9>$ 4.200</h9><br>
-	    <h10>Salmón, verduras salteadas, champiñón, cebollín</h10> </div>
-                 </li>
-	    
-	     <!--GOHAN  4-->
-   <li data-tags="Hot Gohan"><img src="img/menu_01/gohan.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>HG4 Hot Gohan Thai Pollo</h8><br>
-   		  <h9>$ 4.450</h9><br>
-	    <h10>Pollo, verduras salteadas, champiñón, cebollín, salsa thai, maní</h10> </div>
-                 </li>
-	    
-	     <!--GOHAN  5-->
-   <li data-tags="Hot Gohan"><img src="img/menu_01/gohan.png" width="200" height="20">
-        <div class="project-info"> 
-   		  <h8>HG5 Hot Gohan Thai Camarón</h8><br>
-   		  <h9>$ 4.450</h9><br>
-	    <h10>Camarón, verduras salteadas, champiñón, cebollín, salsa thai, maní</h10> </div>
+   		  <h8>PROMOCIÓN 2 PERSONAS</h8><br>
+   		  <h9>$ 12.950 (5%) / 11.590 (15%)<h9><br>
+	    <h10>1 Roll 5 + 1 Roll salsa 1 + 1 Hot roll 1 + 2 bebidas</h10> </div>
                  </li>
                  
                  <!--TEMAKI 1-->
     <li data-tags="Temaki"><img src="img/menu_01/temaki.png" width="200" height="20">
         <div class="project-info"> 
-   		  <h8>TM1 Temaki Tradicional</h8><br>
+   		  <h8>TEMAKI 1 - TRADICIONAL</h8><br>
    		  <h9>$ 2.400</h9><br>
-	    <h10>Salmón o Camarón o Kanikama o Pollo o Pepino, queso crema, palta, cebollín y sésamo</h10> </div>
+	    <h10>Salmón o camarón o kanikama o pollo o pepino, 
+queso crema, palta, cebollín y sésamo</h10> </div>
                  </li>
                  
                  <!--TEMAKI 2-->
     <li data-tags="Temaki"><img src="img/menu_01/temaki.png" width="200" height="20">
         <div class="project-info"> 
-   		  <h8>TM2 Temaki Furai</h8>
+   		  <h8>TEMAKI 2 - FURAI</h8>
    		  <br>
    		  <h9>$ 2.600</h9><br>
-	    <h10>Salmón o Camarón o Kanikama o Pollo furai, queso crema, palta, cebollín y sésamo</h10> </div>
-      </li>    
-	    
-	         <!--ENSALADA-->
-      <li data-tags="Ensalada"><img src="img/menu_01/ensalada.png" width="200" height="20">
+	    <h10>Salmón o camarón o kanikama o pollo furai, 
+queso crema, palta, cebollín y sésamo</h10> </div>
+      </li>      
+                 <!--rolls 1-->
+    <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
         <div class="project-info"> 
-          <h8>EN1 Palta Reina Pollo</h8>
+   		  <h8>ROLL 1 - SALMÓN CAMARÓN ENV. PALTA</h8><br>
+   		  <h9>$ 3.900</h9><br>
+	    <h10>Salmón, camarón, queso crema, envuelto en palta</h10> </div>
+                 </li>
+                 
+                 <!--rolls 2-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>ROLL 2 - KANIKAMA, PALTA, ENV. SÉSAMO</h8><br>
+   		  <h9>$ 3.200</h9><br>
+	    <h10>Kanikama, palta, queso crema, envuelto en sésamo</h10> </div>
+                 </li>
+                 
+                 <!--rolls 3-->
+    <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>ROLL 3 -  CAMARÓN, SALMÓN, ENV. SÉSAMO</h8><br>
+   		  <h9>$ 3.500</h9><br>
+	    <h10>Salmón, camarón, queso crema, envuelto en sésamo</h10> </div>
+                 </li>
+                 
+                 <!--rolls 4-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>ROLL 4 - CAMARÓN, PALTA, ENV. SALMÓN</h8><br>
+   		  <h9>$ 4.100</h9><br>
+	    <h10>Camarón, palta, queso crema, envuelto en salmón</h10> </div>
+                 </li>
+       
+                  <!--rolls 5-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>ROLL 5 - POLLO, QUESO, ENV. PALTA</h8><br>
+   		  <h9>$ 3.600</h9><br>
+	    <h10>Pollo, queso crema, envuelto en palta</h10> </div>
+                 </li>
+
+                 <!--rolls 6-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+        <h8>ROLL 6 - CAMARÓN ENV. PALTA</h8><br>
+        <h9>$ 3.500</h9><br>
+      <h10>Camarón, palta, queso crema, envuelto en palta</h10> </div>
+                 </li>
+
+                 <!--rolls 7-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+        <h8>ROLL 7 - SALMÓN ENV. QUESO CREMA</h8><br>
+        <h9>$ 3.700</h9><br>
+      <h10>Salmón, palta, envuelto en queso crema con ciboulette</h10> </div>
+                 </li>
+                 
+                 <!--rolls 8-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+        <h8>ROLL 6 - SALMÓN ENV. PALTA</h8><br>
+        <h9>$ 3.500</h9><br>
+      <h10>Camarón, palta, queso crema, envuelto en palta</h10> </div>
+                 </li>
+
+                 <!--rolls Veggie 1-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>ROLL VEGGIE 1 - PEPINO</h8><br>
+   		  <h9>$ 3.700</h9><br>
+	    <h10>Pepino, palta, queso crema, envuelto en sesámo</h10> </div>
+                 </li>
+                 
+                 <!--rolls Veggie 2-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>ROLL VEGGIE 2 - ALMENDRAS (NUEVO)</h8><br>
+   		  <h9>$ 3.950</h9><br>
+	    <h10>Tomate confitado, champiñón, queso crema, cubierto en almedras tostadas</h10> </div>
+                 </li>
+                 
+                 <!--rolls Veggie 3-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>ROLL VEGGIE 3 - CHAMPIÑON (NUEVO)</h8><br>
+   		  <h9>$ 3.800</h9><br>
+	    <h10>Champiñón, verduras salteadas, queso crema envuelto en sésamo</h10> </div>
+                 </li>
+                 
+                    <!--rolls Veggie 4-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+        <h8>ROLL VEGGIE 4 - PISTACHO (NUEVO)</h8><br>
+        <h9>$ 3.950</h9><br>
+      <h10>Tomate confitado, champiñón, queso crema, cubierto de pistachos</h10> </div>
+                 </li>
+                                  
+                    <!--rolls Salsa 1-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>ROLL SALSA 1 - CAMARÓN ACEVICHADO</h8><br>
+   		  <h9>$ 3.900</h9><br>
+	    <h10>Camarón, queso crema y palta, encvuelto en arroz con salsa acevichada y ciboulette, cubierto con crispys de panko</h10> </div>
+                 </li>
+
+                     <!--rolls Salsa 2-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+        <h8>ROLL SALSA 2 - POLLO HUANCAÍNA (NUEVO)</h8><br>
+        <h9>$ 3.950</h9><br>
+      <h10>Pollo, queso crema, envuelto en arroz con salsa huancaína, cubierto con cebollín</h10> </div>
+                 </li>
+
+                     <!--rolls 13-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+        <h8>ROLL SALSA 3 - SALMÓN CIBOULETTE (NUEVO)</h8><br>
+        <h9>$ 3.900</h9><br>
+      <h10>Salmón, queso crema, envuelto en arroz con salsa al ciboulette, cubierto con crispys de panko</h10> </div>
+                 </li>
+
+                 <!--rolls 14-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+        <h8>ROLL SALSA 4 - CAMARÓN MARACUYÁ (NUEVO)</h8><br>
+        <h9>$ 3.950</h9><br>
+      <h10>Camarón Furai, queso crema, palta, envuelto en arroz 
+con ciboulette, con salsa de maracuyá</h10> </div>
+                 </li>
+                 
+                            <!--HOT ROLLS 1-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>HOT ROLL 1 - SALMÓN, TEMPURA O PANKO</h8><br>
+   		  <h9>$ 3.900</h9><br>
+	    <h10> Salmón, queso crema, envuelto en tempura o panko.</h10> </div>
+                 </li>
+                 <!--HOT ROLLS 2-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>HOT ROLL 2 - CAMARÓN, PALTA, TEMPERATURA O PANKO</h8><br>
+   		  <h9>$ 3.900</h9><br>
+	    <h10> Camarón, palta, queso crema, envuelto en tempura o panko. </h10> </div>
+                 </li>
+                 <!--HOT ROLLS 3-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>HOT ROLL 3 - POLLO, TEMPURA O PANKO</h8><br>
+   		  <h9>$ 3.900</h9><br>
+	    <h10> Pollo, queso crema, envuelto en tempura o panko.</h10> </div>
+                 </li>
+
+                 <!--HOT ROLLS 4-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+        <h8>HOT ROLL 4 - KANIKAMA (NUEVO)</h8><br>
+        <h9>$ 3.750</h9><br>
+      <h10> Kanikama, palta, queso crema, envuelto en tempura o panko</h10> </div>
+                 </li>
+
+                 <!--HOT ROLLS 5-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+        <h8>HOT ROLL 5 - POLLO JALAPEÑO (NUEVO)</h8><br>
+        <h9>$ 4.000</h9><br>
+      <h10> Pollo, queso crema, envuelto en tempura y panko, cubierto con salsa spicy y jalapeño</h10> </div>
+                 </li>
+                 
+             <!--HOT ROLLS 6-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+        <h8>HOT ROLL 4 - VEGETARIANO (NUEVO)</h8><br>
+        <h9>$ 3.900</h9><br>
+      <h10> Tomate confitado, champiñón, queso crema, envuelto en tempura o panko</h10> </div>
+                 </li>
+
+                 <!--HOT ROLLS 7-->
+     <li data-tags="Rolls"><img src="img/menu_01/rolls.png" width="200" height="20">
+        <div class="project-info"> 
+        <h8>GRAN HOT ROLL 7 - FUTOMAKI (NUEVO)</h8><br>
+        <h9>$ 4.450</h9><br>
+      <h10> Camarón, palta, queso crema, un toque de salsa spicy, envuelto en tempura o panko, cubierto con cebollin 
+      y salsa thai. (10 bocados).</h10> </div>
+                 </li>
+
+                   <!--GOHAN  1-->
+   <li data-tags="Gohan"><img src="img/menu_01/gohan.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>GOHAN 1 - SALMÓN KANIKAMA PALTA </h8><br>
+   		  <h9>$ 3.700</h9><br>
+	    <h10>Salmón, kanikama, palta, cebollín</h10> </div>
+                 </li>
+                 
+                 <!--GOHAN  2-->
+    <li data-tags="Gohan"><img src="img/menu_01/gohan.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>GOHAN 2 - SALMÓN CAMARÓN PALTA </h8><br>
+   		  <h9>$ 4.100</h9><br>
+	    <h10>Salmón, camarón, palta, cebollín</h10> </div>
+                 </li>
+       
+      <!--GOHAN  3-->
+    <li data-tags="Gohan"><img src="img/menu_01/gohan.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>GOHAN 3 - CAMARÓN KANIKAMA PALTA </h8><br>
+   		  <h9>$ 3.800</h9><br>
+	    <h10>Camarón, kanikama, palta, cebollín</h10> </div>
+                 </li>
+                 
+                 <!--GOHAN  4-->
+    <li data-tags="Gohan"><img src="img/menu_01/gohan.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>GOHAN 4 - POLLO PALTA </h8><br>
+   		  <h9>$ 3.800</h9><br>
+	    <h10>Pollo, palta, cebollín</h10> </div>
+                 </li>
+                 
+                 <!--GOHAN  5-->
+    <li data-tags="Gohan"><img src="img/menu_01/gohan.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>GOHAN 5 - KANIKAMA PALTA </h8><br>
+   		  <h9>$ 3.100</h9><br>
+	    <h10>Kanikama, palta, cebollín</h10> </div>
+                 </li>
+                 
+                 <!--GOHAN  6-->
+    <li data-tags="Gohan"><img src="img/menu_01/gohan.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>GOHAN 6 - VEGETARIANO </h8><br>
+   		  <h9>$ 3.800</h9><br>
+	    <h10>Champiñón, pepino, palta, queso crema, cebollín</h10> </div>
+                 </li>
+                 
+                     <!--GOHAN 7-->
+    <li data-tags="Gohan"><img src="img/menu_01/gohan.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>GOHAN 7 - POLLO FURAI </h8><br>
+   		  <h9>$ 4.100</h9><br>
+	    <h10>Pollo Furai, palta, cebollin y Salsa Teriyaki</h10> </div>
+                 </li>
+                 
+                 <!--GOHAN 8-->
+    <li data-tags="Gohan"><img src="img/menu_01/gohan.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>GOHAN 8 - CAMARÓN FURAI </h8><br>
+   		  <h9>$ 4.100</h9><br>
+	    <h10>Salmón, camarón furai, palta, cebollin y salsa teriyaki</h10> </div>
+                 </li>
+                 
+                    <!--GOHAN 9-->
+    <li data-tags="Gohan"><img src="img/menu_01/gohan.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>GOHAN 9 - SALMÓN FURAI </h8><br>
+   		  <h9>$ 4.100</h9><br>
+	    <h10>Salmón furai, camarón, palta, cebollin y salsa teriyaki</h10> </div>
+                 </li>
+
+                  <!--GOHAN 10-->
+    <li data-tags="Gohan"><img src="img/menu_01/gohan.png" width="200" height="20">
+        <div class="project-info"> 
+        <h8>GOHAN 10 - KANIKAMA FURAI (NUEVO)</h8><br>
+        <h9>$ 3.800</h9><br>
+      <h10>Kanikama furai, palta, cebollín, salsa teriyaki</h10> </div>
+                 </li>
+                 
+                    <!--GOHAN 10-->
+    <li data-tags="Gohan"><img src="img/menu_01/gohan.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>GOHAN SALSA 1 - SALMÓN ACEVICHADO</h8>
           <br>
-          <h9>$ 4.350</h9>
+   		  <h9>$ 4.300</h9><br>
+	    <h10>Salmón, camarón, palta, cebollin y salsa acevichada</h10> </div>
+                 </li>
+
+                  <!--GOHAN 11-->
+    <li data-tags="Gohan"><img src="img/menu_01/gohan.png" width="200" height="20">
+        <div class="project-info"> 
+        <h8>GOHAN SALSA 2 - POLLO HUANCAÍNA (NUEVO)</h8>
           <br>
-          <h10>Mix de Lechugas, tomate cherry, choclo, media palta reina pollo, mayonesa, arroz yokono o árabe, salsa a elección o limón</h10>
+        <h9>$ 4.400</h9><br>
+      <h10>Pollo furai, palta, cebollín, salsa huancaína</h10> </div>
+                 </li>
+
+                  <!--GOHAN 12-->
+    <li data-tags="Gohan"><img src="img/menu_01/gohan.png" width="200" height="20">
+        <div class="project-info"> 
+        <h8>GOHAN SALSA 3 - CIBOULETTE</h8>
+          <br>
+        <h9>$ 4.300</h9><br>
+      <h10>Salmón, camarón, palta, cebollín, salsa al ciboulete, cubierto con crispys de panko</h10> </div>
+                 </li>
+
+                 <!--GOHAN 13-->
+    <li data-tags="Gohan"><img src="img/menu_01/gohan.png" width="200" height="20">
+        <div class="project-info"> 
+        <h8>GOHAN SALSA 4 - CAMARÓN MARACUYÁ (NUEVO)</h8>
+          <br>
+        <h9>$ 4.400</h9><br>
+      <h10>Camarón furai, salmón, palta, cebollín y salsa maracuyá</h10> </div>
+                 </li>
+
+                 <!--GOHAN 15-->
+    <li data-tags="Gohan"><img src="img/menu_01/gohan.png" width="200" height="20">
+        <div class="project-info"> 
+        <h8>GOHAN SALSA 5 - POLLO Y JALAPEÑO</h8>
+          <br>
+        <h9>$ 4.400</h9><br>
+      <h10>Pollo furai, palta, cebollín, salsa spicy, jalapeño</h10> </div>
+                 </li>
+                 
+                 <!--HOT GOHAN  1-->
+    <li data-tags="Hot Gohan"><img src="img/menu_01/hot_gohan.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>HOT GOHAN 1 - CAMARÓN </h8><br>
+   		  <h9>$ 4.000</h9><br>
+	    <h10>Camarón, verduras salteadas, champiñón, cebollín</h10> </div>
+                 </li>
+                 
+                 <!--HOT GOHAN  2-->
+    <li data-tags="Hot Gohan"><img src="img/menu_01/hot_gohan.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>HOT GOHAN 2 - POLLO </h8><br>
+   		  <h9>$ 4.000</h9><br>
+	    <h10>Pollo, verduras salteadas, champiñón, cebollín</h10> </div>
+                 </li>
+                 
+                 <!--HOT GOHAN  3-->
+    <li data-tags="Hot Gohan"><img src="img/menu_01/hot_gohan.png" width="200" height="20">
+        <div class="project-info"> 
+   		  <h8>HOT GOHAN 3 - SALMÓN </h8><br>
+   		  <h9>$ 4.000</h9><br>
+	    <h10>Salmón, verduras salteadas, champiñón y cebollín</h10> </div>
+                 </li>
+
+                 <!--HOT GOHAN  4-->
+    <li data-tags="Hot Gohan"><img src="img/menu_01/hot_gohan.png" width="200" height="20">
+        <div class="project-info"> 
+        <h8>HOT GOHAN 4 - THAI POLLO</h8><br>
+        <h9>$ 4.200</h9><br>
+      <h10>Pollo, verduras salteadas, champiñón, cebollín, salsa thai, maní</h10> </div>
+                 </li>
+
+                  <!--HOT GOHAN  5-->
+    <li data-tags="Hot Gohan"><img src="img/menu_01/hot_gohan.png" width="200" height="20">
+        <div class="project-info"> 
+        <h8>HOT GOHAN 5 - THAI CAMARÓN</h8><br>
+        <h9>$ 4.200</h9><br>
+      <h10>Camarón, verduras salteadas, champiñón, cebollín, salsa thai, maní</h10> </div>
+                 </li>
+                
+                 <!--GYOSAS  1-->
+      <li data-tags="Gyosas"><img src="img/menu_01/gyosas.png" width="200" height="20">
+        <div class="project-info"> 
+          <h8>GYOSAS FRITAS </h8>
+          <br>
+          <h9>$ 1.300</h9>
+          <br>
+          <h10>3 unidades de pollo, camarón o cerdo</h10>
         </div>
       </li>
 
-                 <!--ENSALADA-->
-      <li data-tags="Ensalada"><img src="img/menu_01/ensalada.png" width="200" height="20">
+        <!--GYOSAS  2-->
+      <li data-tags="Gyosas"><img src="img/menu_01/gyosas.png" width="200" height="20">
         <div class="project-info"> 
-          <h8>EN2 Palta Reina Camarón</h8>
+          <h8>GYOSAS SALTEADAS </h8>
           <br>
-          <h9>$ 4.350</h9>
+          <h9>$ 1.300</h9>
           <br>
-          <h10>Mix de Lechugas, zanahoria, choclo, media palta reina camarón, mayonesa, pasta al pesto o quinoa, salsa a elección o limón</h10>
+          <h10>3 unidades de pollo, camarón o cerdo</h10>
         </div>
       </li>
-	    
-	    <!--ENSALADA-->
-      <li data-tags="Ensalada"><img src="img/menu_01/ensalada.png" width="200" height="20">
+                 
+                 <!--SOPA  1-->
+      <li data-tags="Sopas"><img src="img/menu_01/sopa.png" width="200" height="20">
         <div class="project-info"> 
-          <h8>EN3 Pollo Teriyaki</h8>
+          <h8>SOPA 1 - MISO</h8>
           <br>
-          <h9>$ 4.350</h9>
+          <h9>$ 1.500</h9>
           <br>
-          <h10>Mix de lechuga, pollo teriyaki cubierto con almendras tostadas, tomate cherry, palta rebanada, arroz árabe, salsa a elección o limón</h10>
-        </div>
-      </li>
-
-                 <!--ENSALADA-->
-      <li data-tags="Ensalada"><img src="img/menu_01/ensalada.png" width="200" height="20">
-        <div class="project-info"> 
-          <h8>EN4 Quinoa y Verduras</h8>
-          <br>
-          <h9>$ 4.350</h9>
-          <br>
-          <h10>Mix Lechugas, Quinoa, pimentón rojo y verde, palta rebanada, choclo, espárragos, champiñón, salsa a elección o limón</h10>
-        </div>
-      </li>
-	    
-	      <!--ENSALADA-->
-      <li data-tags="Ensalada"><img src="img/menu_01/ensalada.png" width="200" height="20">
-        <div class="project-info"> 
-          <h8>EN5 Camarón Furai</h8>
-          <br>
-          <h9>$ 4.350</h9>
-          <br>
-          <h10>Mix de lechuga, camarón furai, tomate cherry, palta rebanada, arroz yokono, salsa a elección o limón</h10>
-        </div>
-      </li>
-	    
-	        <!--ENSALADA-->
-      <li data-tags="Ensalada"><img src="img/menu_01/ensalada.png" width="200" height="20">
-        <div class="project-info"> 
-          <h8>EN6 Arma tu Ensalada</h8>
-          <br>
-          <h9>$ 4.350</h9>
-          <br>
-          <h10>Base de lechuga, y elección de: (1 agregado base) + (1 Agregado Premium) + (2 Agregados Frescos) + (1 Salsa o Limón)</h10>
+          <h10>Suave sopa de soya y cebollín</h10>
         </div>
       </li>
 
-        <!--AGREGADOS  1-->
-      <li data-tags="Agregados y salsas"><img src="img/menu_01/agregados.png" width="200" height="20">
+        <!--SOPA  2-->
+      <li data-tags="Sopas"><img src="img/menu_01/sopa.png" width="200" height="20">
         <div class="project-info"> 
-          <h8>Agregado Base</h8>
+          <h8>SOPA 2 - YOKONO POLLO</h8>
           <br>
-          <h9>$ 1.950</h9>
+          <h9>$ 3.300</h9>
           <br>
-          <h10>Arroz Yokono, Arroz Arabe, Pasta al Pesto, Quinoa</h10>
-		
-		<!--AGREGADOS  2-->
-      <li data-tags="Agregados y salsas"><img src="img/menu_01/agregados.png" width="200" height="20">
+          <h10>Suave sopa de soya, noodles, pollo y cebollín</h10>
+        </div>
+      </li>
+
+        <!--SOPA  3-->
+      <li data-tags="Sopas"><img src="img/menu_01/sopa.png" width="200" height="20">
         <div class="project-info"> 
-          <h8>Agregados Premium</h8>
+          <h8>SOPA 3 - Yokono Camarón</h8>
           <br>
-          <h9>$ 800</h9>
+          <h9>$ 3.300</h9>
           <br>
-          <h10>Salmón, Camarón, Kanikama, Pollo.</h10>
-		
-			<!--AGREGADOS  3-->
-      <li data-tags="Agregados y salsas"><img src="img/menu_01/agregados.png" width="200" height="20">
+          <h10>Suave sopa de soya, noodles, camarón y cebollín</h10>
+        </div>
+      </li>
+                 
+                 
+                 <!--AGREGADOS  1-->
+      <li data-tags="Agregados"><img src="img/menu_01/agregados.png" width="200" height="20">
         <div class="project-info"> 
-          <h8>Agregados Frescos</h8>
+          <h8>AGREGADOS</h8>
           <br>
           <h9>$ 600</h9>
           <br>
-          <h10>Tomate cherry, almendra, choclo, pepino, champiñon, palta rebanada, zanahoria, espárrago, pimenton</h10>
-		
-			<!--AGREGADOS  4-->
-      <li data-tags="Agregados y salsas"><img src="img/menu_01/salsas.png" width="200" height="20">
+          <h10>Salmón, Camarón, Kanikama, Pollo, Palta</h10>
+                 
+                 <!--AGREGADOS  3-->
+      <li data-tags="Agregados"><img src="img/menu_01/agregados.png" width="200" height="20">
         <div class="project-info"> 
-          <h8>Salsas</h8>
+          <h8>AGREGADOS</h8>
           <br>
           <h9>$ 400</h9>
           <br>
-          <h10>Teriyaki, Spicy, Mayo Eneldo, Aceite Oliva, Mostaza Miel, Limón</h10>
-		
-				<!--AGREGADOS  5-->
-      <li data-tags="Agregados y salsas"><img src="img/menu_01/salsas.png" width="200" height="20">
+          <h10>Queso crema</h10>
+        </div>
+      </li>
+                 
+                 <!--SALSAS 1-->
+      <li data-tags="Salsas"><img src="img/menu_01/salsas.png" width="200" height="20">
         <div class="project-info"> 
-          <h8>Salsa Nikkei</h8>
-          <br>
-          <h9>$ 600</h9>
-          <br>
-          <h10>Acevichada, Ciboulette, Thai, Huancaina, Primavera</h10>
-		
-		<!--AGREGADOS  6-->
-      <li data-tags="Agregados y salsas"><img src="img/menu_01/salsas.png" width="200" height="20">
-        <div class="project-info"> 
-          <h8>Queso Crema</h8>
+          <h8>SALSAS</h8>
           <br>
           <h9>$ 400</h9>
           <br>
-          <h10>Queso Crema</h10>
-		
-		<!--AGREGADOS  7-->
-      <li data-tags="Agregados y salsas"><img src="img/menu_01/salsas.png" width="200" height="20">
+          <h10>Teriyaki, Spicy, Mayo Eneldo, Aceite Oliva, Mostaza Miel</h10>
+        </div>
+      </li>
+                 
+                 <!--SALSAS 2-->
+      <li data-tags="Salsas"><img src="img/menu_01/salsas.png" width="200" height="20">
         <div class="project-info"> 
-          <h8>Tempura</h8>
+          <h8>SALSAS</h8>
           <br>
-          <h9>$ 400</h9>
+          <h9>$ 500</h9>
           <br>
-          <h10>Tempurizado de Agregado Premium</h10>
-		
-		<!--Postres 1-->
-      <li data-tags="Postres"><img src="img/menu_01/salsas.png" width="200" height="20">
-        <div class="project-info"> 
-          <h8>Roll Helado</h8>
-          <br>
-          <h9>$1.950 / $2.950</h9>
-          <br>
-          <h10>4 u 8 bocados de helado, envuelto en biscocho, cubierto con almendras tostadas, chips de coco y salsa de frambuesa o
-chocolate</h10>
-		
-		<!--BEBIDAS-->
+          <h10>Acevichada, Maracuyá, Huancaína, Ciboulette, Thai</h10>
+        </div>
+      </li>
+                 
+                 <!--BEBIDAS-->
       <li data-tags="Bebidas"><img src="img/menu_01/bebida.png" width="200" height="20">
         <div class="project-info"> 
-          <h8>Bebida 350 cc</h8>
+          <h8>BEBIDA EN LATA 350 CC</h8>
           <br>
-          <h9>$1.250</h9>
+          <h9>$ 1.100</h9>
           <br>
           <h10></h10>
         </div>
@@ -728,9 +628,9 @@ chocolate</h10>
                  <!--BEBIDAS-->
       <li data-tags="Bebidas"><img src="img/menu_01/bebida.png" width="200" height="20">
         <div class="project-info"> 
-          <h8>Agua minera 500 cc</h8>
+          <h8>AGUA MINERAL 500 CC</h8>
           <br>
-          <h9>$1.250</h9>
+          <h9>$ 1.100</h9>
           <br>
           <h10></h10>
         </div>
@@ -739,10 +639,10 @@ chocolate</h10>
                  <!--BEBIDAS-->
       <li data-tags="Bebidas"><img src="img/menu_01/bebida.png" width="200" height="20">
         <div class="project-info"> 
-          <h8>Nectar</h8>
+          <h8>NECTAR</h8>
           <br>
           <h9>
-            <h9>$1.250</h9>
+            <h9>$ 1.100</h9>
           </h9>
           <br>
           <h10></h10>
@@ -752,10 +652,10 @@ chocolate</h10>
                  <!--BEBIDAS-->
       <li data-tags="Bebidas"><img src="img/menu_01/bebida.png" width="200" height="20">
         <div class="project-info"> 
-          <h8>Ice Tea o Limonada jengibre menta</h8>
+          <h8>ICE TEA</h8>
           <br>
           <h9>
-            <h9>$1.600</h9>
+            <h9>$ 1.100</h9>
           </h9>
           <br>
           <h10></h10>
@@ -765,63 +665,139 @@ chocolate</h10>
           <!--BEBIDAS-->
       <li data-tags="Bebidas"><img src="img/menu_01/bebida.png" width="200" height="20">
         <div class="project-info"> 
-          <h8>Cerveza Corona (Disponible en Providencia)</h8>
+          <h8>LIMONADA JENGIBRE MENTA (NUEVO)</h8>
           <br>
           <h9>
-            <h9>$ 2.190</h9>
+            <h9>$ 1.100</h9>
           </h9>
           <br>
           <h10></h10>
         </div>
       </li>
-		<!--PROMOS-->
-    <li data-tags="Promociones"><img src="img/menu_01/combos.png" width="200" height="20">
+
+          <!--BEBIDAS-->
+      <li data-tags="Bebidas"><img src="img/menu_01/bebida.png" width="200" height="20">
         <div class="project-info"> 
-   		  <h8>PROMO 1 (1p)</h8><br>
-   		  <h9>$5.200 (SODEXO y ENRED), $4.800 (EFECTIVO o TRANSBANK)</h9><br>
-	    <h10>1 California Roll a elección + Medio hot roll o temaki a elección (no incluye futomaki)</h10> </div>
-                 </li>
-		
-		<!--PROMOS-->
-    <li data-tags="Promociones"><img src="img/menu_01/combos.png" width="200" height="20">
+          <h8>CERVEZA CORONA</h8>
+          <br>
+          <h9>
+            <h9>$ 2.190 (disponible en Providencia)</h9>
+          </h9>
+          <br>
+          <h10></h10>
+        </div>
+      </li>
+                 
+                
+                 <!--ENSALADA-->
+      <li data-tags="Ensalada"><img src="img/menu_01/ensalada.png" width="200" height="20">
         <div class="project-info"> 
-   		  <h8>PROMO 2 (1p)</h8><br>
-   		  <h9>$5.700 (SODEXO y ENRED), $5.300 (EFECTIVO o TRANSBANK)</h9><br>
-	    <h10>1 Special Roll a elección + medio hot roll o temaki a elección (no incluye futomaki)</h10> </div>
-                 </li>
-		
-		<!--PROMOS-->
-    <li data-tags="Promociones"><img src="img/menu_01/combos.png" width="200" height="20">
+          <h8>PALTA REINA POLLO (NUEVO)</h8>
+          <br>
+          <h9>$ 4.250</h9>
+          <br>
+          <h10>Lechuga, tomate cherry, choclo, media palta reina, pollo, arroz yokono o árabe, con salsa a elección</h10>
+        </div>
+      </li>
+
+                 <!--ENSALADA-->
+      <li data-tags="Ensalada"><img src="img/menu_01/ensalada.png" width="200" height="20">
         <div class="project-info"> 
-   		  <h8>PROMO 3 (1p)</h8><br>
-   		  <h9>$4.300 (SODEXO y ENRED), $3.900 (EFECTIVO o TRANSBANK)</h9><br>
-	    <h10>1 Gohan Tradicional n°5 + Queso Crema + Bebida</h10> </div>
-                 </li>
-		
-		<!--PROMOS-->
-    <li data-tags="Promociones"><img src="img/menu_01/combos.png" width="200" height="20">
+          <h8>PALTA REINA CAMARÓN (NUEVO)</h8>
+          <br>
+          <h9>$ 4.250</h9>
+          <br>
+          <h10>Lechuga, zanahoria, choclo, media palta reina camarón, pasta al pesto o quinoa con salsa a elección</h10>
+        </div>
+      </li>
+
+                 <!--ENSALADA-->
+      <li data-tags="Ensalada"><img src="img/menu_01/ensalada.png" width="200" height="20">
         <div class="project-info"> 
-   		  <h8>PROMO 4 (1p)</h8><br>
-   		  <h9>$4.600 (SODEXO y ENRED), $4.200 (EFECTIVO o TRANSBANK)</h9><br>
-	    <h10>1 Gohan Tradicional n°1 + Bebida</h10> </div>
-                 </li>
-		
-		<!--PROMOS-->
-    <li data-tags="Promociones"><img src="img/menu_01/combos.png" width="200" height="20">
+          <h8>ENROLADA (Ensalada + 1/2 roll) (NUEVO)</h8>
+          <br>
+          <h9>$ 4.450</h9>
+          <br>
+          <h10>Lechuga, quinoa, zanahoria, palta, medio roll a elección y con salsa a elección. Opciones 1/2 roll: Hot roll 1, 2 o 3. Opciones Roll Salsa: 1, 2 o 3.</h10>
+        </div>
+      </li>
+
+                 <!--ENSALADA-->
+      <li data-tags="Ensalada"><img src="img/menu_01/ensalada.png" width="200" height="20">
         <div class="project-info"> 
-   		  <h8>PROMO 1 (2p)</h8><br>
-   		  <h9>$11.100 (SODEXO y ENRED), $10.100 (EFECTIVO o TRANSBANK)</h9><br>
-	    <h10>3 rolls: Nikkei roll 1 + special roll 1 + hot roll 3</h10> </div>
-                 </li>
-		
-		<!--PROMOS-->
-    <li data-tags="Promociones"><img src="img/menu_01/combos.png" width="200" height="20">
+          <h8>ARMA TU ENSALADA</h8>
+          <br>
+          <h9>$ 3.950</h9>
+          <br>
+          <h10>Todas incluyen mix de lechugas como base y limón</h10>
+        </div>
+      </li>
+                 
+                 <!--ENSALADA agregado base-->
+      <li data-tags="Ensalada"><img src="img/menu_01/ensalada.png" width="200" height="20">
         <div class="project-info"> 
-   		  <h8>PROMO 2 (2p)</h8><br>
-   		  <h9>$13.900 (SODEXO y ENRED), $12.800 (EFECTIVO o TRANSBANK)</h9><br>
-	    <h10>1 Picoteo Duo Marino + Special Roll 2 + Special Roll 4 + Hot Roll 3</h10> </div>
-                 </li>
-    
+          <h8>AGREGADO BASE</h8>
+          <br>
+          <h10>Arroz Yokono, Arroz Árabe, Pasta al Pesto, Quinoa.</h10>
+        </div>
+      </li>
+                 
+                 <!--ENSALADA agregado fresco-->
+      <li data-tags="Ensalada"><img src="img/menu_01/ensalada.png" width="200" height="20">
+        <div class="project-info"> 
+          <h8>+ 2 AGREGADOS FRESCOS</h8>
+          <br>
+          <h10>Tomate Cherry, Almendra, Choclo, Pepino, Palta, Champiñón, Zanahoria, Pimentón</h10>
+        </div>
+      </li>
+                 
+                 <!--ENSALADA agregado premium-->
+      <li data-tags="Ensalada"><img src="img/menu_01/ensalada.png" width="200" height="20">
+        <div class="project-info"> 
+          <h8>+ 1 AGREGADO PREMIUM</h8>
+          <br>
+          <h10>Salmón, Camarón, Pollo, Kanikama</h10>
+                     
+        </div>
+      </li>
+                 
+                 <!--ENSALADA salsa-->
+      <li data-tags="Ensalada"><img src="img/menu_01/ensalada.png" width="200" height="20">
+        <div class="project-info"> 
+          <h8>SALSAS</h8>
+          <br>
+          <h10> Mostaza Miel, Aceite de Oliva, Thai, Acevichada, Pimentón Dulce, Teriyaki, Picante, Ciboulette, Acevichada</h10>
+        </div>
+      </li>
+      
+      <!--ENSALADA OPCIONAL ADICIONAL-->
+      <li data-tags="Ensalada"><img src="img/menu_01/ensalada.png" width="200" height="20">
+        <div class="project-info"> 
+          <h8>Tempurizado o Apanado de agregado Premium</h8>
+          <br>
+          <h9>$300</h9>
+        </div>
+      </li>
+
+      <!--ENSALADA OPCIONAL ADICIONAL-->
+      <li data-tags="Ensalada"><img src="img/menu_01/ensalada.png" width="200" height="20">
+        <div class="project-info"> 
+          <h8>Opción Adicional, cualquier agregado fresco extra</h8>
+          <br>
+          <h9>$600</h9>
+        </div>
+      </li>
+
+      <!--ENSALADA OPCIONAL ADICIONAL-->
+      <li data-tags="Ensalada"><img src="img/menu_01/ensalada.png" width="200" height="20">
+        <div class="project-info"> 
+          <h8>Veggie, puedes cambiar agregado premium por uno fresco</h8>
+          <br>
+        </div>
+      </li>
+      
+      
+    </ul>
   </div>
   <!--END of portfolio section-->
 
